@@ -16,11 +16,6 @@ hash = "7ec07fbf8bd444722601e8acedc7ea199a40edc9a37c4c5df1e449712d0e3dc4"
 metafile = true
 
 [[files]]
-file = "mods/aiot-botania.pw.toml"
-hash = "67b3053561ffed5bfc50d64f009fcbef81650b80dde3c4c508d81cd8fc5ae7f8"
-metafile = true
-
-[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "5d03b477df607fc4fa5cde634a6e870413ab097ff9222d2f0a465ac0fbcdbea4"
 metafile = true
@@ -126,8 +121,13 @@ hash = "f2bc9a24518e286b908f6e467e92070818ff3c3003d8ff75675b83094c56b10e"
 metafile = true
 
 [[files]]
+file = "mods/connector-extras.pw.toml"
+hash = "fed3e4c5fa358461ec2e660df915bc8a925fcba436dca7426ec8355ee5d504ee"
+metafile = true
+
+[[files]]
 file = "mods/connector.pw.toml"
-hash = "2f1b85545681321199513038f1520d0680d931e36baeb6f83055b4087dbaa564"
+hash = "820c2edd54fee628c8fba8306ff7bcb5798bc5403364aed8ba97cef7048f0818"
 metafile = true
 
 [[files]]
@@ -246,6 +246,11 @@ hash = "90949d3032e45e834dc8b2b3c01a40c73d22c9eb827835aa0b831b625a2c5a3c"
 metafile = true
 
 [[files]]
+file = "mods/embeddium.pw.toml"
+hash = "a49c5c15586667460668bc0207a34ef56330a1cc8b7b5e3c3c7ec7876ee56138"
+metafile = true
+
+[[files]]
 file = "mods/emi-loot.pw.toml"
 hash = "5e3e6bd38266786f78f570307f54ab49bfc6337a0e6667d2635d3407c857ff86"
 metafile = true
@@ -346,11 +351,6 @@ hash = "6477b433301f74caaecf17bde886afca92992e21cd1aa0fab220326f567b3475"
 metafile = true
 
 [[files]]
-file = "mods/immersive-engineering.pw.toml"
-hash = "2f642ad048cb3ba04ffede51488ca1d403bb4a1d7fcd651a48d31d9c162234f5"
-metafile = true
-
-[[files]]
 file = "mods/jade-addons-forge.pw.toml"
 hash = "ee91acdffc481f535911c38fbc06c62c85e6531a2ee7e4e116401b3ad544e74a"
 metafile = true
@@ -368,6 +368,11 @@ metafile = true
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "fab49ce0c16fa78f71c7b39d23a4318055598f1cee0a964781f3b56801e2ed44"
+metafile = true
+
+[[files]]
+file = "mods/lazurite.pw.toml"
+hash = "cb31d58853a9d68d8e5c012a9ec9c171b5c96085fe3aa9154c8dcdb93b919a7b"
 metafile = true
 
 [[files]]
@@ -531,8 +536,13 @@ hash = "daa5ea6e0d7015f2ea79c2fe4bc92a670d40f9dffcebfedf2ea9ca5dbdbeec00"
 metafile = true
 
 [[files]]
+file = "mods/patchouli-forge.pw.toml"
+hash = "0336aae8f3197a855098f51c792875c4fd8c81883ca87a77f34c98c2cdc0fb26"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.pw.toml"
-hash = "4d0b66ba4cb3c2965bf961d4bb991babb6a60f8a20709d1e295ed7fc8b6d8929"
+hash = "89e5cab6f92dbcfd6c2c058fc9381869fde193a431c284dbb828833e881cd344"
 metafile = true
 
 [[files]]
@@ -708,11 +718,6 @@ metafile = true
 [[files]]
 file = "mods/switchy.pw.toml"
 hash = "b0e3fca44d5972aae217ad8f5a431aebafff4a96df15a967940dbc5fd8f3a3c2"
-metafile = true
-
-[[files]]
-file = "mods/the-bumblezone.pw.toml"
-hash = "e1037db1e4c038cc2af5c9d95eb098503c74a7fdd9f4c5a0c8e44e8b6fdc0bfe"
 metafile = true
 
 [[files]]
