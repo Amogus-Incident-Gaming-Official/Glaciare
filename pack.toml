@@ -1,13 +1,13 @@
 name = "Glaciare"
 author = "AIGO Team"
-version = "1.0.0"
+version = "1.2.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "ca78a47b2e987e5ad05481fc82753ed2e14b921b49c0af0109f21bbf68c71f70"
+hash = "0d71848bcd696b2ab1ec9f98d2425d2af0f6e6f67d5332e6ead85fd1596f1580"
 
 [versions]
+forge = "47.2.20"
 minecraft = "1.20.1"
-neoforge = "47.1.97"

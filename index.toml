@@ -76,6 +76,11 @@ hash = "ee89624cda5529539c5f1f63820f6c4b110c3afe0a024cf9d4cb02f2c87fe051"
 metafile = true
 
 [[files]]
+file = "mods/bewitchment.pw.toml"
+hash = "5cd6a1ee42d854aa931e6bf051a2bfd8490eb7015492e60e02835ce556ca22bf"
+metafile = true
+
+[[files]]
 file = "mods/bocchud.pw.toml"
 hash = "74cd07ffd23189ef2504d52a2e406846c4ed8a0174f0800399c8e8196ec57d32"
 metafile = true
@@ -531,6 +536,11 @@ hash = "4d0b66ba4cb3c2965bf961d4bb991babb6a60f8a20709d1e295ed7fc8b6d8929"
 metafile = true
 
 [[files]]
+file = "mods/paucal.pw.toml"
+hash = "27f64a89cba342cb4736d9ca45e1568d8f8f56bd14b453e55cb81774ca553a3d"
+metafile = true
+
+[[files]]
 file = "mods/pehkui.pw.toml"
 hash = "b765e99d8f549eb37f4cf04faf44aae113156bf5f6145b4f3e1ee704ae39c4ca"
 metafile = true
@@ -621,6 +631,11 @@ hash = "d93b370935b00d2460bc6a29d1e04af19606962524e5e9dae5eb2fc232f3711c"
 metafile = true
 
 [[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "0efaf17ef62391554f3f4fb43c2892df00006a0bb25d74c83891721340c821cb"
+metafile = true
+
+[[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "f7714416fd9cc1a822359ea6ee04b604c943c666663f2694a377dfc890ce382d"
 metafile = true
@@ -628,6 +643,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "dbe2c430bf58c773082d7fd9d1bee2d510a2e0c08f390f7465e819b6e321ae09"
+metafile = true
+
+[[files]]
+file = "mods/spectrum.pw.toml"
+hash = "3b3a6780cd086ba29b46e3d70f20bc8e9f804cf9a43a78a7dde38e892f93332c"
 metafile = true
 
 [[files]]
