@@ -1,0 +1,13 @@
+name = "Macaw's Bridges"
+filename = "mcw-bridges-2.1.0-mc1.20.1forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GURcjz8O/versions/zRRtK7LF/mcw-bridges-2.1.0-mc1.20.1forge.jar"
+hash-format = "sha1"
+hash = "579f788ffee64ddb1af33e8a4aa5c978f277a7cc"
+
+[update]
+[update.modrinth]
+mod-id = "GURcjz8O"
+version = "zRRtK7LF"

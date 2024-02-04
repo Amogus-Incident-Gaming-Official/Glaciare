@@ -1,0 +1,13 @@
+name = "Origins (Forge)"
+filename = "origins-forge-1.20.1-1.10.0.5-all.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jl3m2lR9/versions/PnThMzCG/origins-forge-1.20.1-1.10.0.5-all.jar"
+hash-format = "sha1"
+hash = "069f5c62ca1585a80133fca7be0be955053ee9dc"
+
+[update]
+[update.modrinth]
+mod-id = "jl3m2lR9"
+version = "PnThMzCG"

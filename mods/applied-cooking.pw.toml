@@ -1,0 +1,13 @@
+name = "Applied Cooking"
+filename = "appliedcooking-4.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BmMjyidG/versions/VwTKP4ii/appliedcooking-4.0.0.jar"
+hash-format = "sha1"
+hash = "a034d84dee09bdc9985a49b241cb26cfbfc8564a"
+
+[update]
+[update.modrinth]
+mod-id = "BmMjyidG"
+version = "VwTKP4ii"

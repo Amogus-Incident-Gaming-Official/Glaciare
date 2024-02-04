@@ -1,0 +1,13 @@
+name = "Fast Backups"
+filename = "fastback-0.15.6+1.20.1-forge.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZHKrK8Rp/versions/sCxHMib4/fastback-0.15.6%2B1.20.1-forge.jar"
+hash-format = "sha1"
+hash = "e705d6a13fec4ca62e3b9635017fab24aab490bb"
+
+[update]
+[update.modrinth]
+mod-id = "ZHKrK8Rp"
+version = "sCxHMib4"

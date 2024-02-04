@@ -1,0 +1,7 @@
+name = "hexcasting"
+filename = "hexcasting-forge-1.20.1-0.11.1-7-pre-614.jar"
+
+[download]
+url = "https://ci.blamejared.com/job/petrakat/job/Hexcasting/job/main/lastSuccessfulBuild/artifact/Forge/build/libs/hexcasting-forge-1.20.1-0.11.1-7-pre-614.jar"
+hash-format = "sha256"
+hash = "e15dd8bff5176730da28cf18b98a2b4de0bc9c4540276bed1085a205ef9580b9"

@@ -1,0 +1,13 @@
+name = "switchy-status"
+filename = "switchy-status-1.0.1+1.19.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/kURcBH5t/versions/lWFkxjsX/switchy-status-1.0.1%2B1.19.jar"
+hash-format = "sha1"
+hash = "41b27506871e18a6479a51abf8acd14602336988"
+
+[update]
+[update.modrinth]
+mod-id = "kURcBH5t"
+version = "lWFkxjsX"

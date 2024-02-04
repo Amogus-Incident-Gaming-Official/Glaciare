@@ -1,0 +1,13 @@
+name = "Double Doors"
+filename = "double-doors-dp-1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ANlAmoYX/versions/D1hn6PSz/double-doors-dp-1.1.jar"
+hash-format = "sha1"
+hash = "b0660cacbeae02f0922a182f682cb6af7ab8371f"
+
+[update]
+[update.modrinth]
+mod-id = "ANlAmoYX"
+version = "D1hn6PSz"

@@ -1,0 +1,13 @@
+name = "Simply Swords"
+filename = "simplyswords-forge-1.52.0-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bK3Ubu9p/versions/tjD92joH/simplyswords-forge-1.52.0-1.20.1.jar"
+hash-format = "sha1"
+hash = "1383646db86b277785733d35faef820c932ff18e"
+
+[update]
+[update.modrinth]
+mod-id = "bK3Ubu9p"
+version = "tjD92joH"

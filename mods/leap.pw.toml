@@ -1,0 +1,13 @@
+name = "Leap"
+filename = "leap-1.20.1-1.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/h9AgaNxF/versions/XsXe6V2r/leap-1.20.1-1.1.2.jar"
+hash-format = "sha1"
+hash = "8737f6d7e3462d234ba42f2aedf9731617687819"
+
+[update]
+[update.modrinth]
+mod-id = "h9AgaNxF"
+version = "XsXe6V2r"

@@ -1,0 +1,13 @@
+name = "Dash"
+filename = "dash-1.20.1-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1jg306gb/versions/G67ObWr7/dash-1.20.1-1.1.1.jar"
+hash-format = "sha1"
+hash = "59be73ceb8c182f9c148c4779285fe17831536ca"
+
+[update]
+[update.modrinth]
+mod-id = "1jg306gb"
+version = "G67ObWr7"
