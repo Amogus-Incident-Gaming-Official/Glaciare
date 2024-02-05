@@ -1,0 +1,13 @@
+name = "Tetra's Delight"
+filename = "tetrasdelight-1.20.1-1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TVhC6ZPD/versions/RMrGkuN3/tetrasdelight-1.20.1-1.jar"
+hash-format = "sha1"
+hash = "511ddeee2ec3daa8636daada7e193b5d61b8bcec"
+
+[update]
+[update.modrinth]
+mod-id = "TVhC6ZPD"
+version = "RMrGkuN3"

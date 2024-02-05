@@ -1,0 +1,13 @@
+name = "Silent Lib"
+filename = "silent-lib-1.20.1-8.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BQhuHQo4/versions/WGt4877n/silent-lib-1.20.1-8.0.0.jar"
+hash-format = "sha1"
+hash = "62a8a63755a70aba2e8aa047856a4611729ca1b3"
+
+[update]
+[update.modrinth]
+mod-id = "BQhuHQo4"
+version = "WGt4877n"

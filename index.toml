@@ -491,6 +491,11 @@ hash = "3d3a8cd6517c5804bd1ce2e4e05197ef40d33ed04c26b448c3eba6ac2b25321b"
 metafile = true
 
 [[files]]
+file = "mods/mutil.pw.toml"
+hash = "c730f5a36bad3b8f4ffd4fdb9d1c87e5c84af61c0c5f53df5ee3df2ba068dfa1"
+metafile = true
+
+[[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "38eb04b5ae4e429509e8c90fed921719d600166d9be12fcd4f263cce3b117c8a"
 metafile = true
@@ -621,6 +626,21 @@ hash = "d5e28db7edb95097544ad3ef26c3d46036ce82469f49da328f7c9709878035db"
 metafile = true
 
 [[files]]
+file = "mods/silent-gear.pw.toml"
+hash = "abeaa3e14c9e8d2e6063e54546f50b6ce69fefb635b3100684f9b61464819d4a"
+metafile = true
+
+[[files]]
+file = "mods/silent-lib.pw.toml"
+hash = "66f07d4b96ef556a78998966fa125ba4e1ce0d461d340e712983f584aeb0d205"
+metafile = true
+
+[[files]]
+file = "mods/silents-gems.pw.toml"
+hash = "5a927e164f172684f268e4d79fc46dd3f06c035121db4dc90e3a77b811935602"
+metafile = true
+
+[[files]]
 file = "mods/simply-swords.pw.toml"
 hash = "d39abf6e6fe443701eeb3c2c078a162175130faff59af427dd08e858a7e34bba"
 metafile = true
@@ -708,6 +728,26 @@ metafile = true
 [[files]]
 file = "mods/switchy.pw.toml"
 hash = "b0e3fca44d5972aae217ad8f5a431aebafff4a96df15a967940dbc5fd8f3a3c2"
+metafile = true
+
+[[files]]
+file = "mods/tetra.pw.toml"
+hash = "aa552caa20576995d4fb2fe2b7eeae40e27365675a896baaa2b941ee377b2416"
+metafile = true
+
+[[files]]
+file = "mods/tetracelium.pw.toml"
+hash = "9421e7ce08f775700d1d59cd042decdcdd32ebbbbb605bf8fdf9f6cccdd9107a"
+metafile = true
+
+[[files]]
+file = "mods/tetras-delight.pw.toml"
+hash = "ce69359fd01caf893a419a088f5252ead0d73fad51ae02b504bbc430b216cc51"
+metafile = true
+
+[[files]]
+file = "mods/tetratic-combat-expanded.pw.toml"
+hash = "a3ba5b5f3ef7822e2f5ed74078b05d7a66e32997c9ca4544eb6beedce60d785c"
 metafile = true
 
 [[files]]
