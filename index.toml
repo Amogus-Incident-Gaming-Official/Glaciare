@@ -351,6 +351,11 @@ hash = "6477b433301f74caaecf17bde886afca92992e21cd1aa0fab220326f567b3475"
 metafile = true
 
 [[files]]
+file = "mods/inventory-hud-forge.pw.toml"
+hash = "b89733a48c29082434f6bce4616c0f528c3a5b40ee3b807f86a9f8241e05587b"
+metafile = true
+
+[[files]]
 file = "mods/jade-addons-forge.pw.toml"
 hash = "ee91acdffc481f535911c38fbc06c62c85e6531a2ee7e4e116401b3ad544e74a"
 metafile = true
@@ -742,7 +747,7 @@ metafile = true
 
 [[files]]
 file = "mods/switchy.pw.toml"
-hash = "b0e3fca44d5972aae217ad8f5a431aebafff4a96df15a967940dbc5fd8f3a3c2"
+hash = "4131fcf8db5227b85b4000bc3a4d019678e1c0174479d38b169a2b1503c8a9f4"
 metafile = true
 
 [[files]]
