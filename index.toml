@@ -151,6 +151,11 @@ hash = "cfa8aa9c0437721dab2057c932c9cf8ec3d3a11f672040601305238d13df85e8"
 metafile = true
 
 [[files]]
+file = "mods/craterlib.pw.toml"
+hash = "4570d2a0795ae991299fb19575a367a848024f81a5bf450f380534f3a04874ee"
+metafile = true
+
+[[files]]
 file = "mods/create-big-cannons.pw.toml"
 hash = "974960749314aa138050edd717879be64c68cb07393e43ce2407773977309dc5"
 metafile = true
@@ -618,6 +623,11 @@ metafile = true
 [[files]]
 file = "mods/rsinfinitybooster.pw.toml"
 hash = "6d2e78c790e5bfe249dab8cab5a237ad3706548e3ff0bb5fa277e53b5ea663e1"
+metafile = true
+
+[[files]]
+file = "mods/sdlink.pw.toml"
+hash = "798736c2992b4c47d0fe3bd146ff105a2a707d75e9dc0f87ca13e157ac1df32e"
 metafile = true
 
 [[files]]
