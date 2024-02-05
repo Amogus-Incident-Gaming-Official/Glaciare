@@ -581,6 +581,11 @@ hash = "e8a8ae96cc9c446163f8dc1d276ab69e19931c668777262c50f5c8a40a20eedf"
 metafile = true
 
 [[files]]
+file = "mods/pugs-tetra-x-better-combat-patch-(lite).pw.toml"
+hash = "944154c16ff9d74b1d8f9495ff95616614001a1edddb8a6dd55c5e6b6a2f7220"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "5aa623ed7cf225f757e080519107727339e3a2867757be05105b1de47cd4d240"
 metafile = true
@@ -743,11 +748,6 @@ metafile = true
 [[files]]
 file = "mods/tetras-delight.pw.toml"
 hash = "ce69359fd01caf893a419a088f5252ead0d73fad51ae02b504bbc430b216cc51"
-metafile = true
-
-[[files]]
-file = "mods/tetratic-combat-expanded.pw.toml"
-hash = "a3ba5b5f3ef7822e2f5ed74078b05d7a66e32997c9ca4544eb6beedce60d785c"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Puggicorn's Tetra x Better Combat Patch (Lite)"
+filename = "pugs-tetra-x-better-combat-patch-(lite)-2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lYT6HZhn/versions/Tg6O5PA4/pugs-tetra-x-better-combat-patch-%28lite%29-2.1.jar"
+hash-format = "sha1"
+hash = "b932664d61ae566e07cfeb71d7ebbd52d6377bc3"
+
+[update]
+[update.modrinth]
+mod-id = "lYT6HZhn"
+version = "Tg6O5PA4"
