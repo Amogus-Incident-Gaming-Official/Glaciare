@@ -41,6 +41,21 @@ hash = "b7321e670cc58aa8062f7cae470c9806c2ed83680ca598df5fe6e75ab40df452"
 metafile = true
 
 [[files]]
+file = "mods/ars-creo.pw.toml"
+hash = "628d399340e67a9f64246c8900dabc1efc338ca5dafec5fc24938c9d8b3bfdfa"
+metafile = true
+
+[[files]]
+file = "mods/ars-elemental.pw.toml"
+hash = "21345de6562bb914df83bd93f84bd0ec102d7a81b3874f485a583987233435f9"
+metafile = true
+
+[[files]]
+file = "mods/ars-nouveau.pw.toml"
+hash = "5b73728cb17bf6fbcfcf2740e75255f766b69c964ea57a070e7c580d490d221f"
+metafile = true
+
+[[files]]
 file = "mods/artifacts.pw.toml"
 hash = "e3beace5a306893ad9201795d38d17ed1528c0e80f982929ae10efd959f9e30c"
 metafile = true
