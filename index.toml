@@ -171,11 +171,6 @@ hash = "e6d9ff51e12795189b72161e9b6fa443c93fb3512013bd9d184592b466732872"
 metafile = true
 
 [[files]]
-file = "mods/create-goggles.pw.toml"
-hash = "75eff6711ca05c11668b2f002b2ce8b88d6a3db9aeca6823485238876357c83a"
-metafile = true
-
-[[files]]
 file = "mods/create-new-age.pw.toml"
 hash = "49af1cfdb7f662e3a29481d1c1edf130547a9fc0d75e1e6cb64f1aafb722ee07"
 metafile = true
@@ -338,11 +333,6 @@ metafile = true
 [[files]]
 file = "mods/ftb-ultimine-forge.pw.toml"
 hash = "dcab54200a705f5a74544011849f8d77e73776124e7b144a2d27d6117c949b84"
-metafile = true
-
-[[files]]
-file = "mods/fusion-connected-textures.pw.toml"
-hash = "107d43eaec4b656e198ac68571315ec47ed3f143b8d76800d88df702a678f041"
 metafile = true
 
 [[files]]
@@ -593,11 +583,6 @@ metafile = true
 [[files]]
 file = "mods/quark.pw.toml"
 hash = "e48b1859220b2f3b71c550629d07e475e3193fcbf2be8d972bbfae67a81e4a2f"
-metafile = true
-
-[[files]]
-file = "mods/rechiseled.pw.toml"
-hash = "663b996b6ebea5c1ba69e70484a3a9980961408e08373b3ddc0a6921b1752dbd"
 metafile = true
 
 [[files]]
