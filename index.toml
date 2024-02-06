@@ -176,6 +176,11 @@ hash = "974960749314aa138050edd717879be64c68cb07393e43ce2407773977309dc5"
 metafile = true
 
 [[files]]
+file = "mods/create-broken-bad.pw.toml"
+hash = "81498b0bce7dce029ae3ad8ca1c38ffc8787d7809e2ed08c196c2f8651ae34be"
+metafile = true
+
+[[files]]
 file = "mods/create-central-kitchen.pw.toml"
 hash = "5e6fd70feca4fd45288de0038e53bdd35ce4d45f59185e2f94fdf261eed863f5"
 metafile = true
@@ -218,6 +223,11 @@ metafile = true
 [[files]]
 file = "mods/create-stuff-additions.pw.toml"
 hash = "4c6fbf3f3ea6f6fc907d9673a77dd991776c55ad7a25d0011034d66624616518"
+metafile = true
+
+[[files]]
+file = "mods/create-usable-broken-bad.pw.toml"
+hash = "ebb3c5c09bf338d26451e9620c204d9ea4ed82e8b4348490e19ca4ee7ca1425c"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Create: Usable Broken Bad"
+filename = "UseCreateBB-v1.1-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7fe9021dc3dd9a8c0225e3787f713cf2859f7419"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4998786
+project-id = 950648
