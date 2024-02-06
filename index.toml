@@ -571,6 +571,11 @@ hash = "768bd8a91ce0a8809059e0aa110cd0b45a8f4fafbfb0f933d14ed80c2cd703c8"
 metafile = true
 
 [[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "28b3e0806647eb166e942cf6552993bb6d666949c53f0d51927bdfb063cb6cc4"
+metafile = true
+
+[[files]]
 file = "mods/parcool.pw.toml"
 hash = "daa5ea6e0d7015f2ea79c2fe4bc92a670d40f9dffcebfedf2ea9ca5dbdbeec00"
 metafile = true
