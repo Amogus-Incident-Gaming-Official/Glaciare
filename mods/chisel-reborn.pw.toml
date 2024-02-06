@@ -1,0 +1,13 @@
+name = "Chisel Reborn"
+filename = "chiselforge-1.6.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4KWv7wbN/versions/evVCHGie/chiselforge-1.6.0.jar"
+hash-format = "sha1"
+hash = "215f302a0a0e6f5b27c59484ec140b7614424592"
+
+[update]
+[update.modrinth]
+mod-id = "4KWv7wbN"
+version = "evVCHGie"
