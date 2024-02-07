@@ -5,6 +5,10 @@ file = "config/Mekanism/additions.toml"
 hash = "918f98e1976185ad3b5e44f7a39e413df36004a089dc4d3c61e119b8c372286c"
 
 [[files]]
+file = "kubejs/server_scripts/example.js"
+hash = "b7fb9b85d12d49e6d20147aa10fdf9f198024b26ac8d0aad316c37c3e57f8081"
+
+[[files]]
 file = "mods/advancement-plaques.pw.toml"
 hash = "ad8eec24ca50321f986faf274ed27713e49bdb7b848630be243154c31c4c1f37"
 metafile = true
