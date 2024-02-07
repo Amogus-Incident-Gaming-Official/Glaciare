@@ -410,6 +410,16 @@ hash = "fab49ce0c16fa78f71c7b39d23a4318055598f1cee0a964781f3b56801e2ed44"
 metafile = true
 
 [[files]]
+file = "mods/kubejs-create.pw.toml"
+hash = "432015ce62e9acfd7f305102eb0aa8423e3d424f06193c333b71dc21f1fba29e"
+metafile = true
+
+[[files]]
+file = "mods/kubejs.pw.toml"
+hash = "c23e89d231e9d202ab6d07f1c52b6ef4d5beeb8ef69814c25b3dca00aa1adcf2"
+metafile = true
+
+[[files]]
 file = "mods/lazurite.pw.toml"
 hash = "cb31d58853a9d68d8e5c012a9ec9c171b5c96085fe3aa9154c8dcdb93b919a7b"
 metafile = true
@@ -661,6 +671,11 @@ metafile = true
 [[files]]
 file = "mods/revelationary.pw.toml"
 hash = "c3e4cce180fa406e5c44bde59b1f2f23ddc970394079768f774fc007b700f156"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "6be79c8aeb5bddbe5957a1292a7977d8e03926c3126472edeaa906ef54f51b58"
 metafile = true
 
 [[files]]
