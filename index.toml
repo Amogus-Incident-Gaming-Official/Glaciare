@@ -6,7 +6,7 @@ hash = "918f98e1976185ad3b5e44f7a39e413df36004a089dc4d3c61e119b8c372286c"
 
 [[files]]
 file = "kubejs/server_scripts/example.js"
-hash = "b7fb9b85d12d49e6d20147aa10fdf9f198024b26ac8d0aad316c37c3e57f8081"
+hash = "bcad4f5aeb90f350dfdf79227fa4bc6400852c7bd69f489988ab18eb0df1d56d"
 
 [[files]]
 file = "mods/advancement-plaques.pw.toml"
@@ -136,11 +136,6 @@ metafile = true
 [[files]]
 file = "mods/caelus.pw.toml"
 hash = "958d92f2c763942e7846f4c77b675c126cc8738a1dbc1a6f53390fa0d44b1a10"
-metafile = true
-
-[[files]]
-file = "mods/carry-on.pw.toml"
-hash = "ba1bdad41e3c9ec131330f048fc6f9bcb753ca3e9bfa1e41d60d6ca11afbc2e6"
 metafile = true
 
 [[files]]
@@ -705,6 +700,11 @@ metafile = true
 [[files]]
 file = "mods/rsinfinitybooster.pw.toml"
 hash = "6d2e78c790e5bfe249dab8cab5a237ad3706548e3ff0bb5fa277e53b5ea663e1"
+metafile = true
+
+[[files]]
+file = "mods/satin-api.pw.toml"
+hash = "4bb50a4ca564fc09f72da50f8bce3bdd88ad28fd1453d7f54040d70590820647"
 metafile = true
 
 [[files]]

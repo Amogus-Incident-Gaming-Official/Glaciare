@@ -1,0 +1,13 @@
+name = "Satin API"
+filename = "satin-1.13.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f3aa65575ca001eae6d0e735c58c86784a3541ac"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4577591
+project-id = 385463
