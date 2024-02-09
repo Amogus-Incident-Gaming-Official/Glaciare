@@ -139,6 +139,11 @@ hash = "958d92f2c763942e7846f4c77b675c126cc8738a1dbc1a6f53390fa0d44b1a10"
 metafile = true
 
 [[files]]
+file = "mods/carry-on.pw.toml"
+hash = "ba1bdad41e3c9ec131330f048fc6f9bcb753ca3e9bfa1e41d60d6ca11afbc2e6"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "38cf4a76862812fefc9b1ae0b8fac02b3f706716f3228eb859b511950273e791"
 metafile = true
@@ -146,6 +151,11 @@ metafile = true
 [[files]]
 file = "mods/clumps.pw.toml"
 hash = "f2bc9a24518e286b908f6e467e92070818ff3c3003d8ff75675b83094c56b10e"
+metafile = true
+
+[[files]]
+file = "mods/cofh-core.pw.toml"
+hash = "cdc8386b87895775e3f4cc5624c43efd6a3610516864a7f507adb70c2c3a12f1"
 metafile = true
 
 [[files]]
@@ -256,6 +266,11 @@ metafile = true
 [[files]]
 file = "mods/dash.pw.toml"
 hash = "137f8a0d11041cdf9cacec6549f050d73ff312d1c722ee1bc232be1fd72be1ef"
+metafile = true
+
+[[files]]
+file = "mods/destroy.pw.toml"
+hash = "f1356c901c903b7f4b62cc90bb49ddadd50a97bc0a86b1ae5a242ff8ee09014a"
 metafile = true
 
 [[files]]
@@ -618,6 +633,11 @@ hash = "b765e99d8f549eb37f4cf04faf44aae113156bf5f6145b4f3e1ee704ae39c4ca"
 metafile = true
 
 [[files]]
+file = "mods/pick-your-poison.pw.toml"
+hash = "9e40403b25139c04b8bc2a3eefcf8080f2b973b135a0263f06aa7d8b138698eb"
+metafile = true
+
+[[files]]
 file = "mods/pipez.pw.toml"
 hash = "8f206f9520244cdd99a9fb2714a72f383001d2c0278438bbd7dba04bdf8f601b"
 metafile = true
@@ -820,6 +840,31 @@ metafile = true
 [[files]]
 file = "mods/tetras-delight.pw.toml"
 hash = "ce69359fd01caf893a419a088f5252ead0d73fad51ae02b504bbc430b216cc51"
+metafile = true
+
+[[files]]
+file = "mods/thermal-dynamics.pw.toml"
+hash = "a17fe396984fb3cab0859c8edf5226f5b24ff9e63929cdba057d088152978942"
+metafile = true
+
+[[files]]
+file = "mods/thermal-expansion.pw.toml"
+hash = "124b2e8a98bf33885b2df0526c8762cd5d3fcc10232dcc8fea3708690930c7ee"
+metafile = true
+
+[[files]]
+file = "mods/thermal-foundation.pw.toml"
+hash = "c98ac240e9bc3eb8bcd7711c5bd65535dce3b38f539563b9b4882f93c3929831"
+metafile = true
+
+[[files]]
+file = "mods/thermal-innovation.pw.toml"
+hash = "d9f11f9b9418c35e6e2c997e46b796687444d954d09b27f82260d356218cc9a7"
+metafile = true
+
+[[files]]
+file = "mods/thermal-integration.pw.toml"
+hash = "744e7032ecd82802548cf96e6bd980af743afde7a7ae2c9321d9ab6794263e09"
 metafile = true
 
 [[files]]
