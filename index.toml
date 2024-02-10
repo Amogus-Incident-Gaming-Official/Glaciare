@@ -5,6 +5,10 @@ file = "config/Mekanism/additions.toml"
 hash = "918f98e1976185ad3b5e44f7a39e413df36004a089dc4d3c61e119b8c372286c"
 
 [[files]]
+file = "config/silentgear-common.toml"
+hash = "f3d3e07a82b6c71748fa5d96fff679db7045fcd307337b7a731450381d6cb1ce"
+
+[[files]]
 file = "kubejs/server_scripts/example.js"
 hash = "bcad4f5aeb90f350dfdf79227fa4bc6400852c7bd69f489988ab18eb0df1d56d"
 
