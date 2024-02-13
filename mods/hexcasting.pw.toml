@@ -1,7 +1,7 @@
 name = "hexcasting"
-filename = "hexcasting-forge-1.20.1-0.11.1-7-pre-616.jar"
+filename = "hexcasting-forge-1.20.1-0.11.1-7-pre-620.jar"
 
 [download]
-url = "https://ci.blamejared.com/job/petrakat/job/Hexcasting/job/main/616/artifact/Forge/build/libs/hexcasting-forge-1.20.1-0.11.1-7-pre-616.jar"
+url = "https://ci.blamejared.com/job/petrakat/job/Hexcasting/job/main/620/artifact/Forge/build/libs/hexcasting-forge-1.20.1-0.11.1-7-pre-620.jar"
 hash-format = "sha256"
-hash = "81379fdb08b180861818af09466d4d0684835c69f4a38ded73d40d5ac24f1b30"
+hash = "4d7277fda87757dd677302d7856bda5cab6d2f865a54b0884fbb931c20df5966"

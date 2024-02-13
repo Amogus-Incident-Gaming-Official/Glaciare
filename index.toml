@@ -143,6 +143,11 @@ hash = "958d92f2c763942e7846f4c77b675c126cc8738a1dbc1a6f53390fa0d44b1a10"
 metafile = true
 
 [[files]]
+file = "mods/chunk-loaders.pw.toml"
+hash = "d1d6ff2b3749a159e309433d774a85b485a1d72931363cd181192bfb95b85c44"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "38cf4a76862812fefc9b1ae0b8fac02b3f706716f3228eb859b511950273e791"
 metafile = true
@@ -394,7 +399,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexcasting.pw.toml"
-hash = "d4e2870428d7cd189a42160b22a374b5a260c5aa755169a8aab6a9568d1f2711"
+hash = "bf64a8ab38f32be29813fbacfcff3892f5d72f24e7cbea7300582ae06ac56dce"
 metafile = true
 
 [[files]]
