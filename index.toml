@@ -398,6 +398,10 @@ hash = "dcab54200a705f5a74544011849f8d77e73776124e7b144a2d27d6117c949b84"
 metafile = true
 
 [[files]]
+file = "mods/geckolib-forge-1.20.1-4.2.1.jar"
+hash = "996591275afb72f256058e31f750249a9490df8e88974bad5bf18a8343294aa1"
+
+[[files]]
 file = "mods/hexal-forge-1.20.1-0.3.0-2.jar"
 hash = "569b3909886c728b647a06a84b69db2ffd50dbb8eb9a6a4d201600420feb70a9"
 
@@ -560,6 +564,10 @@ metafile = true
 file = "mods/modernfix.pw.toml"
 hash = "d59267b7c76cda271d3edf00c50b532a5912eb1a1bafbe6a16f0ecffd78a4f4f"
 metafile = true
+
+[[files]]
+file = "mods/moreiotas-forge-1.20.1-0.1.0-4.jar"
+hash = "fa42ab3dcae17a453aa19a39b6dd61389372fc832de8b544af0841410c13a1cf"
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
