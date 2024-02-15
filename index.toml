@@ -398,8 +398,8 @@ hash = "dcab54200a705f5a74544011849f8d77e73776124e7b144a2d27d6117c949b84"
 metafile = true
 
 [[files]]
-file = "mods/hexal-common-1.20.1-0.3.0-2.jar"
-hash = "d790df84127f495b3fd5f8946c25f53cd240de400b7ae621e42e3997885691da"
+file = "mods/hexal-forge-1.20.1-0.3.0-2.jar"
+hash = "569b3909886c728b647a06a84b69db2ffd50dbb8eb9a6a4d201600420feb70a9"
 
 [[files]]
 file = "mods/hexcasting.pw.toml"
