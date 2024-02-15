@@ -293,6 +293,11 @@ hash = "61b2b8a2f2b8773fdaa98ef57ff937a4eec83576d53db2f3058ec5b4e93336bd"
 metafile = true
 
 [[files]]
+file = "mods/dynamiclights-reforged.pw.toml"
+hash = "7c42037125573675148f40d1be3c2dfbbfb58065de4793828281de9cd70f0588"
+metafile = true
+
+[[files]]
 file = "mods/effortless-building.pw.toml"
 hash = "5c118585456add791116b5b0c9af9e19a79ae108738b0c35ece16149727f936e"
 metafile = true
@@ -393,8 +398,9 @@ hash = "dcab54200a705f5a74544011849f8d77e73776124e7b144a2d27d6117c949b84"
 metafile = true
 
 [[files]]
-file = "mods/hexal-forge-1.20.1-0.3.0-2.jar"
-hash = "569b3909886c728b647a06a84b69db2ffd50dbb8eb9a6a4d201600420feb70a9"
+file = "mods/hexal.pw.toml"
+hash = "09b64ef02f78e5b7a7f572fa38cd5fd81379ff78d9bf6704487f168fb28a96cb"
+metafile = true
 
 [[files]]
 file = "mods/hexcasting.pw.toml"
