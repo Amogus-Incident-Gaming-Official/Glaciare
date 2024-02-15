@@ -293,11 +293,6 @@ hash = "61b2b8a2f2b8773fdaa98ef57ff937a4eec83576d53db2f3058ec5b4e93336bd"
 metafile = true
 
 [[files]]
-file = "mods/dynamic-lights.pw.toml"
-hash = "689de1398b2d03f2518da3c82f003dc533536d84c103c85222808ef5da1185b9"
-metafile = true
-
-[[files]]
 file = "mods/effortless-building.pw.toml"
 hash = "5c118585456add791116b5b0c9af9e19a79ae108738b0c35ece16149727f936e"
 metafile = true
