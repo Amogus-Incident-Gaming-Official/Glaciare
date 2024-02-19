@@ -421,10 +421,6 @@ hash = "bf64a8ab38f32be29813fbacfcff3892f5d72f24e7cbea7300582ae06ac56dce"
 metafile = true
 
 [[files]]
-file = "mods/hexxy-dimensions-1.0.0.jar"
-hash = "96aa269c6fc26448d1f074427f59124e87171f197cd2ac52d35516db8da3f887"
-
-[[files]]
 file = "mods/iceberg.pw.toml"
 hash = "6477b433301f74caaecf17bde886afca92992e21cd1aa0fab220326f567b3475"
 metafile = true
