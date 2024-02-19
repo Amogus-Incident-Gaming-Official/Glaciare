@@ -8,9 +8,6 @@ file = "index.toml"
 hash-format = "sha256"
 <<<<<<< HEAD
 hash = "ba3b9b59fbafc43162b34e846b05376e7bd2065f3fbbd5bd2ac56ff71d17f7eb"
-=======
-hash = "46cc99afbf98138547323eff7d0bb8d6bb613b5dabd83e16b0b43b65376188a4"
->>>>>>> parent of 0920b2b (HexxyTime)
 
 [versions]
 forge = "47.1.5"
