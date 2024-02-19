@@ -143,11 +143,6 @@ hash = "958d92f2c763942e7846f4c77b675c126cc8738a1dbc1a6f53390fa0d44b1a10"
 metafile = true
 
 [[files]]
-file = "mods/chisels-bits-for-fabric.pw.toml"
-hash = "132beefa31625459bdf45eb240fdf4c73a34e2b544999959ecb83d7824545195"
-metafile = true
-
-[[files]]
 file = "mods/chunk-loaders.pw.toml"
 hash = "d1d6ff2b3749a159e309433d774a85b485a1d72931363cd181192bfb95b85c44"
 metafile = true
@@ -896,11 +891,6 @@ metafile = true
 [[files]]
 file = "mods/tinkerers-statures.pw.toml"
 hash = "0297277ea3edfd7303153212c8ed6504b8f03fd841a489b19a9730a6732e5934"
-metafile = true
-
-[[files]]
-file = "mods/torchmaster.pw.toml"
-hash = "f2c09150e959e4b0d303eecb4b703b4a74a33d07cefbacd9ca0ad480de19ca03"
 metafile = true
 
 [[files]]
