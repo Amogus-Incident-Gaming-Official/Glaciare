@@ -411,6 +411,11 @@ hash = "bf64a8ab38f32be29813fbacfcff3892f5d72f24e7cbea7300582ae06ac56dce"
 metafile = true
 
 [[files]]
+file = "mods/hexdim.pw.toml"
+hash = "5c66286650f23d7bd590062d94703f78a7e360783910c8f8d41150250693dc08"
+metafile = true
+
+[[files]]
 file = "mods/iceberg.pw.toml"
 hash = "6477b433301f74caaecf17bde886afca92992e21cd1aa0fab220326f567b3475"
 metafile = true
