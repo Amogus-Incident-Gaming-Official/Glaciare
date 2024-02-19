@@ -1,0 +1,13 @@
+name = "Chisels & Bits - For Fabric"
+filename = "chisels-and-bits-fabric-1.4.147.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "952ca87db6b61e17bb17ed1c027fdb438faaec35"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5099759
+project-id = 561059
