@@ -143,6 +143,11 @@ hash = "958d92f2c763942e7846f4c77b675c126cc8738a1dbc1a6f53390fa0d44b1a10"
 metafile = true
 
 [[files]]
+file = "mods/chisels-bits.pw.toml"
+hash = "5dc5adc7894fcd644d33f614a76e3a19e1b9e176db15fa01fc1e95507acf177a"
+metafile = true
+
+[[files]]
 file = "mods/chunk-loaders.pw.toml"
 hash = "d1d6ff2b3749a159e309433d774a85b485a1d72931363cd181192bfb95b85c44"
 metafile = true
@@ -180,6 +185,11 @@ metafile = true
 [[files]]
 file = "mods/cooking-for-blockheads.pw.toml"
 hash = "259636601b21c7ae999f27ea087149a9a004cb7c688ca6b37c63f0e2d81ed1f9"
+metafile = true
+
+[[files]]
+file = "mods/copycats.pw.toml"
+hash = "a6a95c94b13bf9ab819ef5a9592dd41e0faef5cddbcaa08a0333c1261b7073fb"
 metafile = true
 
 [[files]]

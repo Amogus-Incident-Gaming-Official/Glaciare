@@ -1,0 +1,13 @@
+name = "Create: Copycats+"
+filename = "copycats-1.1.0-mc1.20.1-all.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UT2M39wf/versions/KaWzxkbC/copycats-1.1.0-mc1.20.1-all.jar"
+hash-format = "sha1"
+hash = "abccd5b5b9702a42a2d897daaf614c4a8140969f"
+
+[update]
+[update.modrinth]
+mod-id = "UT2M39wf"
+version = "KaWzxkbC"
