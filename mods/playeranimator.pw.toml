@@ -1,6 +1,6 @@
 name = "playerAnimator"
 filename = "player-animation-lib-forge-1.0.2-rc1+1.20.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/gedNE4y2/versions/xe2EVE6q/player-animation-lib-forge-1.0.2-rc1%2B1.20.jar"
