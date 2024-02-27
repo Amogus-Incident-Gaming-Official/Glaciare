@@ -28,6 +28,11 @@ hash = "7ec07fbf8bd444722601e8acedc7ea199a40edc9a37c4c5df1e449712d0e3dc4"
 metafile = true
 
 [[files]]
+file = "mods/amendments.pw.toml"
+hash = "79adf278a11d6b7c80d0aeea15ca7fd643c8624c356c2d94fa9792bfcbf34773"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "5d03b477df607fc4fa5cde634a6e870413ab097ff9222d2f0a465ac0fbcdbea4"
 metafile = true
@@ -95,6 +100,11 @@ metafile = true
 [[files]]
 file = "mods/bellsandwhistles.pw.toml"
 hash = "7df217b7efc8732751ed1bd0fbd167ea3a75ecca05a92d76b14e6c614236cb57"
+metafile = true
+
+[[files]]
+file = "mods/better-archeology.pw.toml"
+hash = "927a8cb4eadf8c24d570b84704ee9a8875979143ba403f5dbd37c754eebcd70a"
 metafile = true
 
 [[files]]
@@ -168,6 +178,11 @@ hash = "cdc8386b87895775e3f4cc5624c43efd6a3610516864a7f507adb70c2c3a12f1"
 metafile = true
 
 [[files]]
+file = "mods/comforts.pw.toml"
+hash = "db682d3c387eff10ff70087bdee0e13bb97f8616c49a8f4c7bb0e3146034a663"
+metafile = true
+
+[[files]]
 file = "mods/connector-extras.pw.toml"
 hash = "fed3e4c5fa358461ec2e660df915bc8a925fcba436dca7426ec8355ee5d504ee"
 metafile = true
@@ -215,6 +230,11 @@ metafile = true
 [[files]]
 file = "mods/create-central-kitchen.pw.toml"
 hash = "5e6fd70feca4fd45288de0038e53bdd35ce4d45f59185e2f94fdf261eed863f5"
+metafile = true
+
+[[files]]
+file = "mods/create-connected.pw.toml"
+hash = "d10547d14bd26fecc36be465030926e0a758587af3365c9517456025e4d03873"
 metafile = true
 
 [[files]]
@@ -283,11 +303,6 @@ hash = "137f8a0d11041cdf9cacec6549f050d73ff312d1c722ee1bc232be1fd72be1ef"
 metafile = true
 
 [[files]]
-file = "mods/destroy.pw.toml"
-hash = "f1356c901c903b7f4b62cc90bb49ddadd50a97bc0a86b1ae5a242ff8ee09014a"
-metafile = true
-
-[[files]]
 file = "mods/double-doors-dp.pw.toml"
 hash = "754e907f29e5f9aa42b2e44f70e4a00677955aaa789d3873d071c1887c6bc4cd"
 metafile = true
@@ -330,6 +345,11 @@ metafile = true
 [[files]]
 file = "mods/ender-mail.pw.toml"
 hash = "5591f871b2a93fb393c35a3f284f3dbe6b678548c95304d858d00d9d3d2a618f"
+metafile = true
+
+[[files]]
+file = "mods/endless-biomes.pw.toml"
+hash = "7b2ea78cd19a9e6e755fe1e449f4a07850d0304b340878b82fb1c814a6a2370b"
 metafile = true
 
 [[files]]
@@ -573,6 +593,11 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "d59267b7c76cda271d3edf00c50b532a5912eb1a1bafbe6a16f0ecffd78a4f4f"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "3f740ab070109ba3b304f5fd7f84ad8e4a9f0ed7d6529d2f2ff162cfcb3bc1ce"
 metafile = true
 
 [[files]]
@@ -834,6 +859,11 @@ hash = "7f92b24d59c9f87bd6310547b1dee47e8f4c0116f31e9c7835d3b9ca60d8c144"
 metafile = true
 
 [[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "a2775a5826da40c2b9c31f6f3d6ac20261458f46376509e1f319c400d933ed56"
+metafile = true
+
+[[files]]
 file = "mods/switchy-inventories.pw.toml"
 hash = "a769724c838ed7e102bae86a2d8915e780cfd266d1a4eaff580423f38561fd23"
 metafile = true
@@ -901,6 +931,11 @@ metafile = true
 [[files]]
 file = "mods/tinkerers-statures.pw.toml"
 hash = "0297277ea3edfd7303153212c8ed6504b8f03fd841a489b19a9730a6732e5934"
+metafile = true
+
+[[files]]
+file = "mods/torchmaster.pw.toml"
+hash = "ca9e4861ab0cfeb2ea854e0f92f147c82e7036f2a5f8682ae088aabcc616aa7c"
 metafile = true
 
 [[files]]
