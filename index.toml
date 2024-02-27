@@ -28,6 +28,11 @@ hash = "7ec07fbf8bd444722601e8acedc7ea199a40edc9a37c4c5df1e449712d0e3dc4"
 metafile = true
 
 [[files]]
+file = "mods/aiot-botania.pw.toml"
+hash = "7c67c2d0d3969ac4b920211d0ce36a0cd3b956edb962d3138a679779ef89ce9b"
+metafile = true
+
+[[files]]
 file = "mods/amendments.pw.toml"
 hash = "79adf278a11d6b7c80d0aeea15ca7fd643c8624c356c2d94fa9792bfcbf34773"
 metafile = true
@@ -194,7 +199,7 @@ metafile = true
 
 [[files]]
 file = "mods/connector.pw.toml"
-hash = "820c2edd54fee628c8fba8306ff7bcb5798bc5403364aed8ba97cef7048f0818"
+hash = "b81a10e9d037c7d55188f4a00d74e78c38c56898ab886888262550aed589c660"
 metafile = true
 
 [[files]]
@@ -413,11 +418,6 @@ hash = "4a73f04a8986129d79ea4f283a0a33ce51af17079b6efa23596af5bc685e1c1e"
 metafile = true
 
 [[files]]
-file = "mods/figura.pw.toml"
-hash = "94e4884521c256740df7adbdaacb385a30262c0bc711e3af502dd42906a06f5d"
-metafile = true
-
-[[files]]
 file = "mods/forgified-fabric-api.pw.toml"
 hash = "8fb0e46b0189d77bb9b0813088fc6faf17e16822d82d6e1911632e56ec838eba"
 metafile = true
@@ -453,6 +453,11 @@ metafile = true
 [[files]]
 file = "mods/iceberg.pw.toml"
 hash = "6477b433301f74caaecf17bde886afca92992e21cd1aa0fab220326f567b3475"
+metafile = true
+
+[[files]]
+file = "mods/immersiveengineering.pw.toml"
+hash = "c2269a9e657db40350aea860ad7b115abbc8aaad5a131d68b503841751ad182b"
 metafile = true
 
 [[files]]
@@ -911,6 +916,11 @@ metafile = true
 [[files]]
 file = "mods/tetras-delight.pw.toml"
 hash = "ce69359fd01caf893a419a088f5252ead0d73fad51ae02b504bbc430b216cc51"
+metafile = true
+
+[[files]]
+file = "mods/the-bumblezone.pw.toml"
+hash = "c2a484c6971ba81c829a5030aae9e3cc04be5954059458dae0123fa666e8e157"
 metafile = true
 
 [[files]]
