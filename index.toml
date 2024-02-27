@@ -54,7 +54,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "b7321e670cc58aa8062f7cae470c9806c2ed83680ca598df5fe6e75ab40df452"
+hash = "8a27a482bf7dbf9b8a96fe9a3e8bf8e08ca1d376c6cf13bccf49f0d5191d56fa"
 metafile = true
 
 [[files]]
@@ -150,6 +150,11 @@ metafile = true
 [[files]]
 file = "mods/caelus.pw.toml"
 hash = "958d92f2c763942e7846f4c77b675c126cc8738a1dbc1a6f53390fa0d44b1a10"
+metafile = true
+
+[[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "151e98befab27a82a03c0dd8b96a487d81f4904c873e5859b07da860061d2455"
 metafile = true
 
 [[files]]
@@ -315,6 +320,11 @@ metafile = true
 [[files]]
 file = "mods/drogstyle.pw.toml"
 hash = "61b2b8a2f2b8773fdaa98ef57ff937a4eec83576d53db2f3058ec5b4e93336bd"
+metafile = true
+
+[[files]]
+file = "mods/ducky-periphs.pw.toml"
+hash = "2c7ff95da129218e3858446b34840db57405231a50e41badebe7e5037a8afbb4"
 metafile = true
 
 [[files]]
