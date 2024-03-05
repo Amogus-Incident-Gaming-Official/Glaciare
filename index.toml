@@ -13,6 +13,10 @@ file = "config/silentgear-common.toml"
 hash = "f3d3e07a82b6c71748fa5d96fff679db7045fcd307337b7a731450381d6cb1ce"
 
 [[files]]
+file = "config/torchmaster.toml"
+hash = "067b974450754af598685f46262b315eb2cbfa292567db376368fae55cd0337c"
+
+[[files]]
 file = "kubejs/server_scripts/example.js"
 hash = "bcad4f5aeb90f350dfdf79227fa4bc6400852c7bd69f489988ab18eb0df1d56d"
 
