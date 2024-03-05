@@ -1,0 +1,2 @@
+#Display a thank you message at spawn?
+sayThanksMessage = false

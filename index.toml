@@ -5,6 +5,10 @@ file = "config/Mekanism/additions.toml"
 hash = "918f98e1976185ad3b5e44f7a39e413df36004a089dc4d3c61e119b8c372286c"
 
 [[files]]
+file = "config/sebastrnlib-client.toml"
+hash = "37988bba6160eee502982c88c158cf1abee79a0285d655930d1ba3f2b9d4e148"
+
+[[files]]
 file = "config/silentgear-common.toml"
 hash = "f3d3e07a82b6c71748fa5d96fff679db7045fcd307337b7a731450381d6cb1ce"
 
