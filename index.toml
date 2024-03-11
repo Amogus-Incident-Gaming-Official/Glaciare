@@ -848,7 +848,7 @@ metafile = true
 
 [[files]]
 file = "mods/spectrum.pw.toml"
-hash = "3b3a6780cd086ba29b46e3d70f20bc8e9f804cf9a43a78a7dde38e892f93332c"
+hash = "0dd89c6716091f97233e7f27850263c51455fb1b6dc43737c4e7c6609301e13c"
 metafile = true
 
 [[files]]
