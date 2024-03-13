@@ -702,11 +702,6 @@ hash = "b765e99d8f549eb37f4cf04faf44aae113156bf5f6145b4f3e1ee704ae39c4ca"
 metafile = true
 
 [[files]]
-file = "mods/pick-your-poison.pw.toml"
-hash = "9e40403b25139c04b8bc2a3eefcf8080f2b973b135a0263f06aa7d8b138698eb"
-metafile = true
-
-[[files]]
 file = "mods/pipez.pw.toml"
 hash = "8f206f9520244cdd99a9fb2714a72f383001d2c0278438bbd7dba04bdf8f601b"
 metafile = true
